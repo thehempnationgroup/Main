@@ -1,6 +1,6 @@
+# Main
 
-
-*** THE HEMP NATION GROUP *** 
+# THE HEMP NATION GROUP
 
 🌐 group.hempnation.one
 📧 group@hempnation.one
@@ -120,4 +120,4 @@ These solutions selected by SINTRA, the Finish organising party on the WCEF, are
 
 
 
-# Main
+
